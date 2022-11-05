@@ -1,4 +1,4 @@
-string1=input("Enter a sentence: ");
-x=string1.replace(string1[2],'$');
-x=x.replace('$',string1[0],1);
+_str=input("Enter a sentence: ");
+x=_str.replace(_str[0],'$');
+x=x.replace('$',_str[0],1);
 print(x);
