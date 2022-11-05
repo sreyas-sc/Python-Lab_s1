@@ -11,11 +11,10 @@ for i in range(n2):
 	key=input("enter key")
 	value=input("enter value")
 	dict2[key]=value
+print("1st dictionary\n")
 print(dict1)
+print("2nd dictionary\n")
 print(dict2)
-#dict1.update(dict2)
-print("dict1+dict2 after merging")
-print(dict1)
 print("dict1+dict2 after merging with duplicate val")
 dict3={**dict1,**dict2}
 for k,v in dict3.items():
