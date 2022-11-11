@@ -1,2 +1,6 @@
-number=int(input("Enter an integer number: "));
-print(number+(number*number)+(number*number*number));
+number=input("Enter an integer number: ");
+
+a=int(number)
+b=int(number+number)
+c=int(number+number+number)
+print(a+b+c);
