@@ -7,5 +7,5 @@ def ing(s):
         s=s+"ing"
         return s
         print(res)
-s=input("ented a word: ")
+s=input("enter a word: ")
 print(ing(s))
