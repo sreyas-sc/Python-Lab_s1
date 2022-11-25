@@ -1,9 +1,11 @@
-def character_freq():
-    str=input("enter the string ")
-    length=len(str)
-    if "ing" in str:
-        str=str+"ly"
-    elif "ing" not in str:
-        str=str+"ing"
-    print(str)
-character_freq()
+def ing(s):
+    if s[-3::]=="ing":
+        #res=s[:-3:]+"ly"
+        res=s+"ly"
+        return res
+    else:
+        s=s+"ing"
+        return s
+        print(res)
+s=input("ented a word: ")
+print(ing(s))
