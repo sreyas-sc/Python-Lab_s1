@@ -1,0 +1,7 @@
+1)create rectangle class with atributes length and breadth and methods to find area and perimeter compare 2 rectange objects by their area.
+
+2)create a bank account with member's acc no, name, type of account and balance try constructer and methods to deposit at the bank and withdraw an amount from the bank
+
+3)create a class publisher, derive class book from publisher with attributes title and author, derive class python from book with attributes price and number of pages
+
+4)write a program that displays information about a python book, use base class constructor invokation and method overriding
