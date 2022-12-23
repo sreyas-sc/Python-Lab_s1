@@ -3,5 +3,8 @@
 2)create a bank account with member's acc no, name, type of account and balance try constructer and methods to deposit at the bank and withdraw an amount from the bank
 
 3)create a class publisher, derive class book from publisher with attributes title and author, derive class python from book with attributes price and number of pages
+write a program that displays information about a python book, use base class constructor invokation and method overriding
 
-4)write a program that displays information about a python book, use base class constructor invokation and method overriding
+4)create a classs time with private attributes hour, minunite and second. Overload plus operator to find sum of 2 times.
+
+5)create a class rectangle with private attribute length and width overload "<" operator to compare the area of 2 rectangles
