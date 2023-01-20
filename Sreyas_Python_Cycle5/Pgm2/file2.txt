@@ -1,0 +1,4 @@
+Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language.
+ Like Perl, Python source code is also available under the GNU General Public License (GPL).
+Python design philosophy emphasizes code readability with the use of significant indentation.
+ This tutorial will take you through simple and practical approaches while learning Python Programming language.
